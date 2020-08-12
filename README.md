@@ -1,0 +1,1 @@
+# tabela_hashing_espelhamento
