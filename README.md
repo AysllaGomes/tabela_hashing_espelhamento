@@ -1,7 +1,5 @@
 # Tabela Hashing
 
-# Exercício Proposto
-
 Faça um programa que apresente o menu de opções, descrito abaixo.
 As operações devem ser implementadas em uma tabela hashing. Use o método da divisão.
 Como chave da tabela, utilize o código do aluno.
